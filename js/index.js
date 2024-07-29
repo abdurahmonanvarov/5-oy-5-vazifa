@@ -124,6 +124,7 @@ form && form.addEventListener('submit', function(event){
     let card = createCard(user);
     block.appendChild(card)
     
+    
 
 })
 
